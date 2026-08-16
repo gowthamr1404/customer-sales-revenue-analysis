@@ -25,7 +25,6 @@ The project contains three relational tables:
 - **Orders** – order information including customer, product, quantity, and order date
 
 ### Database Relationships
-
 Customers
    │
    │ #customer_id
