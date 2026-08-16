@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+201,Laptop,Electronics,65000
+202,Mobile,Electronics,25000
+203,Headphones,Accessories,2000
+204,Keyboard,Accessories,1500
+205,Mouse,Accessories,800
+206,Smart Watch,Electronics,12000
+207,Printer,Electronics,9000
+208,Monitor,Electronics,15000
+209,USB Drive,Accessories,600
+210,Webcam,Accessories,3000
